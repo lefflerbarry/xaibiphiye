@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xooghoopu.sarah-brosseder.de/sitemap.xml
